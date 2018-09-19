@@ -4,12 +4,11 @@
 [![GitHub issues](https://img.shields.io/github/issues/marius-joe/VBScript_collection.svg)](https://github.com/marius-joe/VBScript_collection/issues/)
 [![GitHub license](https://img.shields.io/github/license/marius-joe/VBScript_collection.svg)](https://github.com/marius-joe/VBScript_collection/blob/master/LICENSE)
 
+*[coming soon]*
+
 **Collection of helper/utility scripts**
 
 For Windows system administrators, Microsoft suggests migrating to PowerShell. However, the VBScript engine will continue to be shipped with future releases of Microsoft Windows.
 <br/>
 <br/>
 **My advice:** Don't create whole new complex scripts using VBScript anymore. Using and maintaining old stable ones is fine.
-
-
-
