@@ -8,6 +8,7 @@
 
 For Windows system administrators, Microsoft suggests migrating to Windows PowerShell. However, the scripting engine will continue to be shipped with future releases of Microsoft Windows.
 <br/>
+<br/>
 **My advice:** Don't create whole new complex scripts using VBScript anymore. Using and maintaining old stable ones is fine.
 
 
