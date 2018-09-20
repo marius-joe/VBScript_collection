@@ -12,3 +12,11 @@ For Windows system administrators, Microsoft suggests migrating to PowerShell. H
 <br/>
 <br/>
 **My advice:** Don't create whole new complex scripts using VBScript anymore. Using and maintaining old stable ones is fine.
+<br/>
+<br/>
+**Why use it for small scripts ?:**<br/>
+(normally!) you cannot execute a Powershell script by clicking and have to invoke the script by<br/>
+*PowerShell.exe -NoProfile -ExecutionPolicy Bypass -file mypowerscript.ps1*<br/>
+That's "Security by design", the Powershell team advise against changing ps1 files to run on double click)<br/>
+-> not comfortable if you just want to execute some small scripts<br/>
+-> VBScripts can be run by clicking on any machine with default configuration
