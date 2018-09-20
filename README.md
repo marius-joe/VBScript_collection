@@ -19,7 +19,7 @@ For Windows system administrators, Microsoft suggests migrating to PowerShell. H
 ```PowerShell
 PowerShell -NoProfile -ExecutionPolicy Bypass -file my_script.ps1
 ```
-Called "Security by design" - the Powershell team advise against changing ps1 files to run on click
+Called "Security by design" - the Powershell team advise against changing ps1 files to run on click<br/>
 <br/>
 -> not comfortable if you just want to execute some small scripts<br/>
 -> VBScripts can be run by clicking on any machine with default configuration
